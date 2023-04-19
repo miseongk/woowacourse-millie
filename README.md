@@ -24,4 +24,4 @@
 
 | No  |      Mission      |                         Repository                         |                             1단계                              |                             2단계                              | Pair |         Period         |
 |:---:|:-----------------:|:----------------------------------------------------------:|:------------------------------------------------------------:|:------------------------------------------------------------:|:----:|:----------------------:|
-|  1  | 웹 자동차 경주 | [jwp-racingcar](https://github.com/miseongk/jwp-racingcar) | [PR](https://github.com/woowacourse/jwp-racingcar/pull/94) |  |  조이  | 2023.04.11 ~ 2023.04.24 |
+|  1  | 웹 자동차 경주 | [jwp-racingcar](https://github.com/miseongk/jwp-racingcar) | [PR](https://github.com/woowacourse/jwp-racingcar/pull/94) | [PR](https://github.com/woowacourse/jwp-racingcar/pull/163) |  조이  | 2023.04.11 ~ 2023.04.24 |
