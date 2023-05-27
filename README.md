@@ -21,8 +21,8 @@
 - 클라우드 환경에 애플리케이션을 배포하고 운영
 - 새로운 기술을 익히는 본인만의 효과적인 학습 방법 찾기
 
-| No  |         Mission         |                             Repository                             |                               1단계                               |                               2단계                               | Pair |         Period          |
-|:---:|:-----------------------:|:------------------------------------------------------------------:|:---------------------------------------------------------------:|:---------------------------------------------------------------:|:----:|:-----------------------:|
-|  1  |        웹 자동차 경주         |     [jwp-racingcar](https://github.com/miseongk/jwp-racingcar)     |   [PR](https://github.com/woowacourse/jwp-racingcar/pull/94)    |   [PR](https://github.com/woowacourse/jwp-racingcar/pull/163)   |  조이  | 2023.04.11 ~ 2023.04.24 |
-|  2  |          장바구니           | [jwp-shopping-cart](https://github.com/miseongk/jwp-shopping-cart) | [PR](https://github.com/woowacourse/jwp-shopping-cart/pull/246) | [PR](https://github.com/woowacourse/jwp-shopping-cart/pull/294) |  매튜  | 2023.04.25 ~ 2023.05.08 |
-| 3 |           지하철           | [jwp-subway-path](https://github.com/miseongk/jwp-subway-path) | [PR](https://github.com/woowacourse/jwp-subway-path/pull/28) |                               PR                                |  허브  | 2023.05.09 ~ 2023.05.22 |
+| No  | Mission  |                             Repository                             |                               1단계                               |                               2단계                               | Pair |         Period          |
+|:---:|:--------:|:------------------------------------------------------------------:|:---------------------------------------------------------------:|:---------------------------------------------------------------:|:----:|:-----------------------:|
+|  1  | 웹 자동차 경주 |     [jwp-racingcar](https://github.com/miseongk/jwp-racingcar)     |   [PR](https://github.com/woowacourse/jwp-racingcar/pull/94)    |   [PR](https://github.com/woowacourse/jwp-racingcar/pull/163)   |  조이  | 2023.04.11 ~ 2023.04.24 |
+|  2  |   장바구니   | [jwp-shopping-cart](https://github.com/miseongk/jwp-shopping-cart) | [PR](https://github.com/woowacourse/jwp-shopping-cart/pull/246) | [PR](https://github.com/woowacourse/jwp-shopping-cart/pull/294) |  매튜  | 2023.04.25 ~ 2023.05.08 |
+|  3  |   지하철    |   [jwp-subway-path](https://github.com/miseongk/jwp-subway-path)   |  [PR](https://github.com/woowacourse/jwp-subway-path/pull/28)   |  [PR](https://github.com/woowacourse/jwp-subway-path/pull/184)  |  허브  | 2023.05.09 ~ 2023.05.22 |
