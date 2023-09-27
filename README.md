@@ -32,8 +32,10 @@
 
 - HTTP와 서블릿에 대한 이해도를 높인다.
 - 스레드, 스레드풀을 적용해보고 동시성 처리를 경험한다.
+- MVC 프레임워크를 구현하면서 내부 동작 원리를 학습한다.
+- 점진적인 리팩토링을 경험한다.
 
-
-| No  | Mission  |                              Repository                              |                               1단계                               |                               2단계                             |  3단계  |         Period          |
-|:---:|:--------:|:--------------------------------------------------------------------:|:---------------------------------------------------------------:|:---------------------------------------------------------------:|:-----:|:-----------------------:|
-|  1  | Tomcat 구현하기 |      [jwp-dashboard-http](https://github.com/miseongk/jwp-dashboard-http)      |   [PR](https://github.com/woowacourse/jwp-dashboard-http/pull/383)    |   [PR](https://github.com/woowacourse/jwp-dashboard-http/pull/464)   |   -   | 2023.09.01 ~ 2023.09.11 |
+| No  |   Mission   |                              Repository                              |                               1단계                                |                               2단계                                |                               3단계                               |         Period          |
+|:---:|:-----------:|:--------------------------------------------------------------------:|:----------------------------------------------------------------:|:----------------------------------------------------------------:|:---------------------------------------------------------------:|:-----------------------:|
+|  1  | Tomcat 구현하기 | [jwp-dashboard-http](https://github.com/miseongk/jwp-dashboard-http) | [PR](https://github.com/woowacourse/jwp-dashboard-http/pull/383) | [PR](https://github.com/woowacourse/jwp-dashboard-http/pull/464) |                                -                                | 2023.09.01 ~ 2023.09.11 |
+|  2  |  @MVC 구현하기  |  [jwp-dashboard-mvc](https://github.com/miseongk/jwp-dashboard-mvc)  | [PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/405)  | [PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/482)  | [PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/630) | 2023.09.12 ~ 2023.09.25 |
