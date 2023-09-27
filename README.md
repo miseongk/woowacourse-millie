@@ -27,3 +27,13 @@
 |  2  |   장바구니   |  [jwp-shopping-cart](https://github.com/miseongk/jwp-shopping-cart)  | [PR](https://github.com/woowacourse/jwp-shopping-cart/pull/246) | [PR](https://github.com/woowacourse/jwp-shopping-cart/pull/294) | [매튜](https://github.com/kpeel5839)  | 2023.04.25 ~ 2023.05.08 |
 |  3  |   지하철    |    [jwp-subway-path](https://github.com/miseongk/jwp-subway-path)    |  [PR](https://github.com/woowacourse/jwp-subway-path/pull/28)   |  [PR](https://github.com/woowacourse/jwp-subway-path/pull/184)  | [허브](https://github.com/greeng00se) | 2023.05.09 ~ 2023.05.22 |
 |  4  | 장바구니 협업  | [jwp-shopping-order](https://github.com/miseongk/jwp-shopping-order) |                                -                                | [PR](https://github.com/woowacourse/jwp-shopping-order/pull/71) | [박스터](https://github.com/drunkenhw) | 2023.05.23 ~ 2023.06.05 |
+
+## Level 4
+
+- HTTP와 서블릿에 대한 이해도를 높인다.
+- 스레드, 스레드풀을 적용해보고 동시성 처리를 경험한다.
+
+
+| No  | Mission  |                              Repository                              |                               1단계                               |                               2단계                             |  3단계  |         Period          |
+|:---:|:--------:|:--------------------------------------------------------------------:|:---------------------------------------------------------------:|:---------------------------------------------------------------:|:-----:|:-----------------------:|
+|  1  | Tomcat 구현하기 |      [jwp-dashboard-http](https://github.com/miseongk/jwp-dashboard-http)      |   [PR](https://github.com/woowacourse/jwp-dashboard-http/pull/383)    |   [PR](https://github.com/woowacourse/jwp-dashboard-http/pull/464)   |   -   | 2023.09.01 ~ 2023.09.11 |
