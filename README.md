@@ -28,6 +28,8 @@
 |  3  |   지하철    |    [jwp-subway-path](https://github.com/miseongk/jwp-subway-path)    |  [PR](https://github.com/woowacourse/jwp-subway-path/pull/28)   |  [PR](https://github.com/woowacourse/jwp-subway-path/pull/184)  | [허브](https://github.com/greeng00se) | 2023.05.09 ~ 2023.05.22 |
 |  4  | 장바구니 협업  | [jwp-shopping-order](https://github.com/miseongk/jwp-shopping-order) |                                -                                | [PR](https://github.com/woowacourse/jwp-shopping-order/pull/71) | [박스터](https://github.com/drunkenhw) | 2023.05.23 ~ 2023.06.05 |
 
+## Level 3 - 팀 프로젝트
+
 ## Level 4
 
 - HTTP와 서블릿에 대한 이해도를 높인다.
@@ -35,7 +37,8 @@
 - MVC 프레임워크를 구현하면서 내부 동작 원리를 학습한다.
 - 점진적인 리팩토링을 경험한다.
 
-| No  |   Mission   |                              Repository                              |                               1단계                                |                               2단계                                |                               3단계                               |         Period          |
-|:---:|:-----------:|:--------------------------------------------------------------------:|:----------------------------------------------------------------:|:----------------------------------------------------------------:|:---------------------------------------------------------------:|:-----------------------:|
-|  1  | Tomcat 구현하기 | [jwp-dashboard-http](https://github.com/miseongk/jwp-dashboard-http) | [PR](https://github.com/woowacourse/jwp-dashboard-http/pull/383) | [PR](https://github.com/woowacourse/jwp-dashboard-http/pull/464) |                                -                                | 2023.09.01 ~ 2023.09.11 |
-|  2  |  @MVC 구현하기  |  [jwp-dashboard-mvc](https://github.com/miseongk/jwp-dashboard-mvc)  | [PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/405)  | [PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/482)  | [PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/630) | 2023.09.12 ~ 2023.09.25 |
+| No  |     Mission     |                              Repository                              |                               1단계                                |                               2단계                                |                               3단계                                |                               4단계                                |         Period          |
+|:---:|:---------------:|:--------------------------------------------------------------------:|:----------------------------------------------------------------:|:----------------------------------------------------------------:|:----------------------------------------------------------------:|:----------------------------------------------------------------:|:-----------------------:|
+|  1  |   Tomcat 구현하기   | [jwp-dashboard-http](https://github.com/miseongk/jwp-dashboard-http) | [PR](https://github.com/woowacourse/jwp-dashboard-http/pull/383) | [PR](https://github.com/woowacourse/jwp-dashboard-http/pull/464) |                                -                                 |                                -                                 | 2023.09.01 ~ 2023.09.11 |
+|  2  |    @MVC 구현하기    |  [jwp-dashboard-mvc](https://github.com/miseongk/jwp-dashboard-mvc)  | [PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/405)  | [PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/482)  | [PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/630)  |                                -                                 | 2023.09.12 ~ 2023.09.25 |
+|  3  | JDBC 라이브러리 구현하기 | [jwp-dashboard-jdbc](https://github.com/miseongk/jwp-dashboard-jdbc) | [PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/286) | [PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/401) | [PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/503) | [PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/544) | 2023.09.26 ~ 2023.10.09 |
