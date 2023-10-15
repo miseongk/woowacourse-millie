@@ -30,6 +30,21 @@
 
 ## Level 3 - 팀 프로젝트
 
+로드맵 기반 모임 플랫폼, 코끼리끼리🐘
+
+- Team Repository😽: https://github.com/woowacourse-teams/2023-co-kirikiri
+- Team WIKI📚: https://github.com/woowacourse-teams/2023-co-kirikiri/wiki
+
+### 디스커션 💬
+
+|     No     |                                                  Discussion                                                  |   Period   |
+|:----------:|:------------------------------------------------------------------------------------------------------------:|:----------:|
+|     1      |    [팀 프로젝트 중간 회고](https://github.com/woowacourse/retrospective/discussions/38#discussioncomment-6507498)     | 2023.07.21 |
+|     2      |    [팀 프로젝트 최종 회고](https://github.com/woowacourse/retrospective/discussions/39#discussioncomment-6842372)     | 2023.08.28 |
+|     3      |      [사용자 유치 계획](https://github.com/woowacourse/retrospective/discussions/40#discussioncomment-6944253)      | 2023.09.08 |
+|     4      | [인프라 아키텍쳐 개선하기](https://github.com/woowacourse/infra-architecture-4/discussions/5#discussioncomment-6988939) | 2023.09.13 |
+
+
 ## Level 4
 
 - HTTP와 서블릿에 대한 이해도를 높인다.
