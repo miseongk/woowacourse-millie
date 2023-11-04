@@ -30,7 +30,7 @@
 
 ## Level 3 - 팀 프로젝트
 
-로드맵 기반 모임 플랫폼, 코끼리끼리🐘
+로드맵을 기반으로 모임을 만들어 여러 사람들과 함께 목표를 달성해나가는 모임 서비스, 코끼리끼리🐘
 
 - Team Repository😽: https://github.com/woowacourse-teams/2023-co-kirikiri
 - Team WIKI📚: https://github.com/woowacourse-teams/2023-co-kirikiri/wiki
@@ -53,7 +53,8 @@
 - 점진적인 리팩토링을 경험한다.
 
 | No  |     Mission     |                              Repository                              |                               1단계                                |                               2단계                                |                               3단계                                |                               4단계                                |         Period          |
-|:---:|:---------------:|:--------------------------------------------------------------------:|:----------------------------------------------------------------:|:----------------------------------------------------------------:|:----------------------------------------------------------------:|:----------------------------------------------------------------:|:-----------------------:|
+|:---:|:---------------:|:--------------------------------------------------------------------:|:----------------------------------------------------------------:|:----------------------------------------------------------------:|:----------------------------------------------------------------:|:----------------------------------------------------------------:|:--------------------------:|
 |  1  |   Tomcat 구현하기   | [jwp-dashboard-http](https://github.com/miseongk/jwp-dashboard-http) | [PR](https://github.com/woowacourse/jwp-dashboard-http/pull/383) | [PR](https://github.com/woowacourse/jwp-dashboard-http/pull/464) |                                -                                 |                                -                                 | 2023.09.01 ~ 2023.09.11 |
 |  2  |    @MVC 구현하기    |  [jwp-dashboard-mvc](https://github.com/miseongk/jwp-dashboard-mvc)  | [PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/405)  | [PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/482)  | [PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/630)  |                                -                                 | 2023.09.12 ~ 2023.09.25 |
 |  3  | JDBC 라이브러리 구현하기 | [jwp-dashboard-jdbc](https://github.com/miseongk/jwp-dashboard-jdbc) | [PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/286) | [PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/401) | [PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/503) | [PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/544) | 2023.09.26 ~ 2023.10.09 |
+|  4  |   레거시 코드 리팩터링   | [jwp-refactoring](https://github.com/miseongk/jwp-refactoring)   |   [PR](https://github.com/woowacourse/jwp-refactoring/pull/513)   |   [PR](https://github.com/woowacourse/jwp-refactoring/pull/622)   |   [PR](https://github.com/woowacourse/jwp-refactoring/pull/768) | [PR](https://github.com/woowacourse/jwp-refactoring/pull/813)    |    2023.10.10 ~ 2023.10.29 |
