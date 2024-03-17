@@ -58,3 +58,8 @@
 |  2  |    @MVC 구현하기    |  [jwp-dashboard-mvc](https://github.com/miseongk/jwp-dashboard-mvc)  | [PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/405)  | [PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/482)  | [PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/630)  |                                -                                 | 2023.09.12 ~ 2023.09.25 |
 |  3  | JDBC 라이브러리 구현하기 | [jwp-dashboard-jdbc](https://github.com/miseongk/jwp-dashboard-jdbc) | [PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/286) | [PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/401) | [PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/503) | [PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/544) | 2023.09.26 ~ 2023.10.09 |
 |  4  |   레거시 코드 리팩터링   | [jwp-refactoring](https://github.com/miseongk/jwp-refactoring)   |   [PR](https://github.com/woowacourse/jwp-refactoring/pull/513)   |   [PR](https://github.com/woowacourse/jwp-refactoring/pull/622)   |   [PR](https://github.com/woowacourse/jwp-refactoring/pull/768) | [PR](https://github.com/woowacourse/jwp-refactoring/pull/813)    |    2023.10.10 ~ 2023.10.29 |
+
+## 🎤 테코톡
+<a href="https://www.youtube.com/watch?v=3gmOuUWPZV4&t=16s&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC">
+<img width="356" alt="스크린샷 2024-03-18 오전 2 11 33" src="https://github.com/miseongk/woowacourse-millie/assets/39994337/b5d293dc-bfa2-4e97-87ae-663d26e1a23c">
+</a>
